@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"map.json"
+                 "value":"conference.json"
                 }],
          "type":"tilelayer",
          "visible":true,
